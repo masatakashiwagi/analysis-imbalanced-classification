@@ -1,5 +1,5 @@
 # sample codes using imbalanced-learn.
-Purpose: over-sampling and under-sampling for imbalanced classifications.<br>
+Purpose: understanding over-sampling and under-sampling for imbalanced classifications.<br>
 imbalanced-learn: https://github.com/scikit-learn-contrib/imbalanced-learn
 
 I create this notebook to understand over and under-sampling technique for imbalanced classifications for myself.
