@@ -18,6 +18,3 @@ Under-sampling technique: Tomek’s links, Cluster Centroids & Random sampling
 - データセット: 少数クラスのover-sampling・多数クラスのunder-samplingを行う
 
 このノートブックでは、`imbalanced-learn`というpythonライブラリーを使って、不均衡データに関する対策の1つであるover-sampling・under-samplingのサンプルコードを載せています。
-
-## My Japanese Article
-hoge
